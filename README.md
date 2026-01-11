@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">Market Research & Forecasting Analyst</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Market+Research+Analyst;Forecasting+Specialist;Time-Series+Analysis;Pricing+Insights+Expert&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepak4sharma&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
