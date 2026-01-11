@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Market+Research;Pricing+Analyst;Product+Price+Forecasting+;Time-Series+Analysis;Pricing+Insights&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Market+Research;Forecasting+Analyst;Pricing+Analyst;Time-Series+Analysis;Pricing+Insights&center=true&width=500&height=45">
 </p>
 
 <p align="center">
