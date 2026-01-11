@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Market+Research;Forecasting+Analyst;Pricing+Analyst;Time-Series+Analysis;Pricing+Insights&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Market+Research+Analyst;Forecasting+Specialist;Time-Series+Analysis;Pricing+Insights+Expert;Data-Driven+Decision+Maker&center=true&width=600&height=50">
 </p>
 
 <p align="center">
@@ -29,24 +29,10 @@
 
 ---
 
-### 📌 Featured Work  
-- Market & Industry Research Reports  
-- Commodity Price Forecasting Models  
-- Data Analysis & Visualization Projects  
-- Python Learning Projects  
-
----
-
-### 🔗 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepaksharma2025/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/deepak4sharma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak4sharma&show_icons=true&theme=default" />
 </p>
 
----
-
-⭐ Always learning. Always improving.
+<p align="center">
+  <img src=
