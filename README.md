@@ -14,7 +14,7 @@
 - 📊 Commodity Price & Demand Forecasting (EViews)  
 - 📈 Time-Series Analysis & Trend Forecasting  
 - 🧠 Market & Industry Research  
-- 💰 Pricing Analysis & Cost Modelling  
+- 💰 Pricing Analysis
 - 🐍 Learning Python for Data Analysis & Forecasting  
 
 ---
