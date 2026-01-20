@@ -20,26 +20,18 @@
 ---
 
 
-### 🚀 Featured Projects
+### 📂 My Repositories
 <p align="left">
-  <a href="https://github.com/deepak4sharma/YOUR-REPO-NAME-1">
-    <img src="https://img.shields.io/badge/Project%201:%20Excel%20Dashboard-2E86C1?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/deepak4sharma/REPO_NAME_1">
+    <img src="https://img.shields.io/badge/REPO_NAME_1-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/deepak4sharma/YOUR-REPO-NAME-2">
-    <img src="https://img.shields.io/badge/Project%202:%20Python%20Forecasting-E67E22?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/deepak4sharma/REPO_NAME_2">
+    <img src="https://img.shields.io/badge/REPO_NAME_2-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/deepak4sharma/YOUR-REPO-NAME-3">
-    <img src="https://img.shields.io/badge/Project%203:%20Power%20BI%20Report-27AE60?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/deepak4sharma/REPO_NAME_3">
+    <img src="https://img.shields.io/badge/REPO_NAME_3-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<br />
-
-<p align="left">
-  <a href="https://github.com/deepak4sharma?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  </p>
 
 ---
 
