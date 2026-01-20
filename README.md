@@ -15,7 +15,7 @@
 - 📈 Time-Series Analysis & Trend Forecasting  
 - 🧠 Market & Industry Research  
 - 💰 Pricing Analysis
-- 🐍 Learning Python for Data Analysis & Forecasting  
+- 🐍 Primary & Secondary Research
 
 ---
 
