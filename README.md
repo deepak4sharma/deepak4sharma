@@ -19,7 +19,29 @@
 
 ---
 
-To organize your GitHub profile into these two distinct sections, you can use the following Markdown code. I have updated the labels to match your request and added official brand colors and icons (logos) to make them look professional.
+Markdown
+### 🛠️ Tools & Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query%20%26%20Pivot%20Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Point-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/EViews-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Basic%20Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+### 📚 Currently Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Forecasting%20%26%20Time%20Series%20(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 📂 Public Repositories  
+<p align="left">
+  <a href="https://github.com/deepak4sharma?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 🛠️ Tools & Skills
 <p align="left"> <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Query%20%26%20Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Point-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/EViews-00599C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Basic%20Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> </p>
